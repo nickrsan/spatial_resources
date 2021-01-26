@@ -10,10 +10,12 @@
 ### Other GIS Packages
 * Google Earth Engine (not the same as Google Earth). A platform for rapid, distributed storage, processing, and classification of imagery data.
 * PostGIS
+* OGR/GDAL
 * GRASS
 * gvSig
 * Manifold
 * MapWindow
+* [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) (https://github.com/jblindsay/whitebox-tools)
 
 ### General
 * [GIS StackExchange – a GIS Q&A community](http://gis.stackexchange.com) (http://gis.stackexchange.com)
