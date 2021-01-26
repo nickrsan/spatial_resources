@@ -7,8 +7,9 @@
 
 ### Web GIS
 
-### Less common packages
+### Other GIS Packages
 * Google Earth Engine (not the same as Google Earth). A platform for rapid, distributed storage, processing, and classification of imagery data.
+* PostGIS
 * GRASS
 * gvSig
 * Manifold
