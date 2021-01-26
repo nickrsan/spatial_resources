@@ -19,6 +19,8 @@
 
 ### General
 * [GIS StackExchange – a GIS Q&A community](http://gis.stackexchange.com) (http://gis.stackexchange.com)
+* [Projfinder](http://projfinder.com/) (http://projfinder.com/) - for when you have data in an unknown projection. Put a coordinate you have into the boxes, move the map to the approximate location of that coordinate, then click the button to see a list of the most likely projections.
+
 ## ArcGIS Addons
 
 ## QGIS Plugins
