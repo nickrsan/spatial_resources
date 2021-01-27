@@ -1,4 +1,13 @@
 # Introductory Glossary of GIS Terms
+
+1. [General GIS](#gis-generally)
+2. ArcGIS-Specific
+3. FOSS-Specific
+4. Remote Sensing
+5. Watershed Analysis
+6. Other
+
+
 ## GIS Generally
 1.	**Spatial Data** – data with a geographic location, representation, or reference point that it describes.
 2.	**Cartography** – the science of map making, including data inclusion, layout, elements, colors, and design. As much as it’s a science, it’s an art form.
@@ -54,6 +63,7 @@
 9. **Folder Connection**
 
 ### FOSS-Specific
+1. **FOSS - Free and Open Source Software**
 1. QGIS
 2. GDAL
 3. OGR
