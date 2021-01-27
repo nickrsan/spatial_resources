@@ -41,7 +41,7 @@
 18. **Tiles**
 
 ## ArcGIS-Specific
-1.	**Feature Class** – data stored in an ESRI geodatabase. A feature class is a collection of features with the same geometry type, projection, and fields. Can be commonly thought of as a dataset.
+1.	**Feature Class** – data stored in an ESRI geodatabase. A feature class is a collection of features with the same geometry type, projection, and fields. Can be commonly thought of as a dataset. ([GISWiki Article](http://wiki.gis.com/wiki/index.php/Feature_class))
 2.	**File Geodatabase** – An Esri proprietary database format. Data stored within it is obfuscated and can only be accessed reliably from Esri software. Faster and more efficient than other storage methods and able to store huge datasets and large amounts of data overall.
 3.	**Default Geodatabase** – The default location that ArcMap will use to save geoprocessing and export products. It saves you from always having to define locations for data. It is defined for each map document and can be changed upon loading the document, in map document properties, or in environment setttings.
 4.	**Spatial Analyst** – An extension to ArcGIS that adds significant raster processing functionality. Many of the tools are useful for a watershed GIS workflow.
