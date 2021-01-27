@@ -1,11 +1,11 @@
 # Introductory Glossary of GIS Terms
 
 1. [General GIS](#gis-generally)
-2. ArcGIS-Specific
-3. FOSS-Specific
-4. Remote Sensing
-5. Watershed Analysis
-6. Other
+2. [ArcGIS-Specific](#arcgis-specific)
+3. [FOSS-Specific](#foss-specific)
+4. [Remote Sensing](#remote-sensing)
+5. [Watershed Analysis](#watershed-analysis)
+6. [Other](#other)
 
 
 ## GIS Generally
