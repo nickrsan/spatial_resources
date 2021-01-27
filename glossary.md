@@ -8,7 +8,7 @@
   b.	A single data element, saved into a GIS file format along with its associated symbology.
 5.	**Scale** – the ratio of the size of elements on screen or in print on the map to their size in the real world
 6.	**Raster** – spatial data that stores location based upon a single origin point and a data stream of known width, height, and resolution. Often used for continuous surfaces.
-  * **DEM** – Digital Elevation Model. A specific use case of raster data where the pixel value represents the elevation of areas covered by the pixel. Sometime called a DTM (digital terrain model) or DED (digital elevation dataset).
+    1. **DEM** – Digital Elevation Model. A specific use case of raster data where the pixel value represents the elevation of areas covered by the pixel. Sometime called a DTM (digital terrain model) or DED (digital elevation dataset).
 7.	**Vector** – spatial data that stores location using Cartesian coordinate locations.
   1.	**Point** – A single spot in (usually) two dimensional space. Attributes represent only that location (and sometimes are inferred to represent nearby locations).
   2.	**Line (Polyline)** – Multiple points connected to represent all locations in between along the connection.
