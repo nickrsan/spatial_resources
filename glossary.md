@@ -1,4 +1,4 @@
-# Glossary of GIS Terms
+# Introductory Glossary of GIS Terms
 ## GIS Generally
 1.	**Spatial Data** – data with a geographic location, representation, or reference point that it describes.
 2.	**Cartography** – the science of map making, including data inclusion, layout, elements, colors, and design. As much as it’s a science, it’s an art form.
@@ -29,8 +29,19 @@
     3.	**Primary Key** – an identifier attribute, usually assigned automatically by the database management engine, that provides a unique integer value by which to reference a data record.
 16.	**Environment Variables (Environments)** – variables/settings that affect the run of a geoprocessing tool. In other computer systems, variables that affect how programs are found and run.
 17.	**Basemap** – a prerendered set of mapping data that can be placed below the data of interest to quickly create a map with context. Frequently, a basemap is served up over the Internet by a basemap server and loaded on the fly by your GIS.
+18. **Tiles**
 
-## ArcGIS Specific
+## ArcGIS-Specific
+1.	**Feature Class** – data stored in an ESRI geodatabase. A feature class is a collection of features with the same geometry type, projection, and fields. Can be commonly thought of as a dataset.
+2.	**File Geodatabase** – An Esri proprietary database format. Data stored within it is obfuscated and can only be accessed reliably from Esri software. Faster and more efficient than other storage methods and able to store huge datasets and large amounts of data overall.
+3.	**Default Geodatabase** – The default location that ArcMap will use to save geoprocessing and export products. It saves you from always having to define locations for data. It is defined for each map document and can be changed upon loading the document, in map document properties, or in environment setttings.
+4.	**Spatial Analyst** – An extension to ArcGIS that adds significant raster processing functionality. Many of the tools are useful for a watershed GIS workflow.
+5.	**Table of Contents** – the set of layers in ArcGIS. Provides access to layer properties and tools.
+
+### ArcGIS Pro-Specific
+1. **Project**
+
+### ArcMap-Specific
 1.	**ArcMap** – the interface for geographic data analysis, querying, layout, and export.
 2.	**ArcCatalog** – the interface for geographic data management.
 3.	**ArcToolbox** – a suite of tools, available from both ArcMap and ArcCatalog, for analyzing, transforming, and querying geographic data.
@@ -39,15 +50,19 @@
 6.	**Data View** – the interface used to view and query data in ArcGIS.
 7.	**Layout View** – the interface used to design and lay out a map for export - all nongeographic elements such as title, data sources, scale bar, etc.
     1.	**Data Frame** – the container for layers in layout or data view, but also the viewport for data on the page in layout view.
-8.	**Feature Class** – data stored in an ESRI geodatabase. A feature class is a collection of features with the same geometry type, projection, and fields. Can be commonly thought of as a dataset.
-9.	**Personal Geodatabase** – A type of geodatabase that uses Microsoft Access 2003 format databases as the container, allowing it to be used as a database within Access and for spatial data. A super handy tool to have in your back pocket if you understand relational databases.
-10.	**File Geodatabase** – An Esri proprietary database format. Data stored within it is obfuscated and can only be accessed reliably from Esri software. Faster and more efficient than other storage methods and able to store huge datasets and large amounts of data overall.
-11.	**Default Geodatabase** – The default location that ArcMap will use to save geoprocessing and export products. It saves you from always having to define locations for data. It is defined for each map document and can be changed upon loading the document, in map document properties, or in environment setttings.
-12.	**Spatial Analyst** – An extension to ArcGIS that adds significant raster processing functionality. Many of the tools are useful for a watershed GIS workflow.
-13.	**Table of Contents** – the set of layers in ArcGIS. Provides access to layer properties and tools.
+8.	**Personal Geodatabase** – A type of geodatabase that uses Microsoft Access 2003 format databases as the container, allowing it to be used as a database within Access and for spatial data. A super handy tool to have in your back pocket if you understand relational databases.
+9. **Folder Connection**
+
+### FOSS-Specific
+1. QGIS
+2. GDAL
+3. OGR
+4. Leaflet
 
 ## Remote Sensing
-1.	**Orthophoto** – an aerial photo whose pixels are location corrected for the differential distortion created by the lens and elevation of land.
+1.  **Orthophoto** – an aerial photo whose pixels are location corrected for the differential distortion created by the lens and elevation of land.
+2.  **GeoTIFF** -
+3.  **COG - Cloud Optimized GeoTIFF**
 
 ## Watershed Analysis
 2.	**Watershed** – The entire land area contributing to the water flow at an outlet or stream junction.
@@ -61,3 +76,6 @@
 
 ## Other
 1.	**Color Ramp** – the scale of colors used to symbolize a range of values in a map
+
+
+Licensed Creative Commons Attribution Share-Alike
