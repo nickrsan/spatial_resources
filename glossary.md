@@ -57,7 +57,7 @@
     1.	**Flowlines** – the streamlines contained within NHD
 6.	**WBD – Watershed Boundary Dataset** – a dataset containing nested watershed boundaries for the United States
     1. **HUCs – Hydrologic Unit Codes** – the watersheds created by the WBD. Usually designated by their size with the digit length (2,4,6,8,10,12) indicating the scale with 12 being the most specific and refined. HUC8s in CA are likely familiar, and HUC12 are useful for refined scale mapping.
-7.	NHDPlus – an enhanced version of NHD that adds additional attributes for each streamline, such as contributing area, flow, elevation, WBD, etc. Often used in place of NHD.
+7.	**NHDPlus** – an enhanced version of NHD that adds additional attributes for each streamline, such as contributing area, flow, elevation, WBD, etc. Often used in place of NHD.
 
 ## Other
 1.	**Color Ramp** – the scale of colors used to symbolize a range of values in a map
