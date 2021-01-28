@@ -1,7 +1,14 @@
 # GIS/Spatial Resources
 
+* [GIS StackExchange](http://gis.stackexchange.com) – a GIS Q&A community (http://gis.stackexchange.com)
+*	[GeoNet](https://geonet.esri.com/welcome) – Esri’s GIS Q&A, news, and discussion community (https://geonet.esri.com/welcome)
+
 ## Tools and their help sites
 ### ArcGIS
+* [ArcGIS Pro Help](https://pro.arcgis.com/en/pro-app/latest/help/main/welcome-to-the-arcgis-pro-app-help.htm) (https://pro.arcgis.com/en/pro-app/latest/help/main/welcome-to-the-arcgis-pro-app-help.htm)
+* [ArcMap Help](https://desktop.arcgis.com/en/arcmap/latest/get-started/main/get-started-with-arcmap.htm) - searching for tools and keywords here is important since they no longer have a full directory of topics listed (https://desktop.arcgis.com/en/arcmap/latest/get-started/main/get-started-with-arcmap.htm)
+* [Help for old versions of ArcGIS (10.2 and earlier)](https://resources.arcgis.com/en/help/) (https://resources.arcgis.com/en/help/)
+* [Esri Support](https://support.esri.com/en/) - often not useful for users at large institutions who will need to access support from their employer. (https://support.esri.com/en/)
 
 ### FOSS GIS
 
@@ -40,6 +47,7 @@
 ## Communities, News, and Blogs
 One of the best ways to keep learning is to get involved in communities that deal with spatial information. Here are a few communities and news sources you might find useful.
 
+* The Spatial Community
 * #gischat hashtag on Twitter
 
 ## Data Sources and Portals
