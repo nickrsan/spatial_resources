@@ -1,7 +1,7 @@
 # GIS/Spatial Resources
 This is a list of GIS resources for beginners in spatial data processing. It is designed as a handout or link to be used in courses. It is not comprehensive (how could it be?) but is meant to give readers starting points for many different topics and an overview of some of the places and technology they can use in their work. URLs are included at the end of each item so it is useful in print as well as electronically.
 
-It is licensed under a<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> - that means you can use this as you like for free, but you need to credit me and share any modifications you make publicly under the same license. Want to add something, improve a description, or see a link that needs updating? Contributions are welcome - click the link near the top of this document or file an issue.
+It is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> - that means you can use this as you like for free, but you need to credit me (Nick Santos - including a link to this page works) and share any modifications you make publicly under the same license. Want to add something, improve a description, or see a link that needs updating? Contributions are welcome - click the link near the top of this document or file an issue.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>.
 
