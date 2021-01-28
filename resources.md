@@ -1,9 +1,9 @@
 # GIS/Spatial Resources
 This is a list of GIS resources for beginners in spatial data processing. It is designed as a handout or link to be used in courses. It is not comprehensive (how could it be?) but is meant to give readers starting points for many different topics and an overview of some of the places and technology they can use in their work. URLs are included at the end of each item so it is useful in print as well as electronically.
 
-It is licensed Creative Commons Attribution Sharealike - that means you can use this as you like for free, but you need to credit me and share any modifications you make publicly under the same license.
+It is licensed under a<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> - that means you can use this as you like for free, but you need to credit me and share any modifications you make publicly under the same license.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>.
 
 * [GIS StackExchange](http://gis.stackexchange.com) – a GIS Q&A community (http://gis.stackexchange.com)
 *	[GeoNet](https://geonet.esri.com/welcome) – Esri’s GIS Q&A, news, and discussion community (https://geonet.esri.com/welcome)
