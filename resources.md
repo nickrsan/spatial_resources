@@ -22,7 +22,7 @@ It is licensed under a <a rel="license" href="http://creativecommons.org/license
 ## General
 * [GIS StackExchange](http://gis.stackexchange.com) – a GIS Q&A community (http://gis.stackexchange.com)
 *	[GeoNet](https://geonet.esri.com/welcome) – Esri’s GIS Q&A, news, and discussion community (https://geonet.esri.com/welcome)
-* [Projfinder](http://projfinder.com/) (http://projfinder.com/) - for when you have data in an unknown projection. Put a coordinate you have into the boxes, move the map to the approximate location of that coordinate, then click the button to see a list of the most likely projections.
+* [Projfinder](http://projfinder.com/) - for when you have data in an unknown projection. Put a coordinate you have into the boxes, move the map to the approximate location of that coordinate, then click the button to see a list of the most likely projections (http://projfinder.com/).
 
 ## Tools and their help sites
 ### ArcGIS
@@ -69,7 +69,7 @@ One of the best ways to keep learning is to get involved in communities that dea
 
 ## Data Sources and Portals
 * [Google Dataset Search](https://datasetsearch.research.google.com/) (https://datasetsearch.research.google.com/)
-* [Openstreetmap (OSM)](https://openstreetmap.org) (https://openstreetmap.org) - Massive source of public and publically-edited spatial data worldwide including roads, paths, neighborhoods, business, parks, boundaries, structures, and more.
+* [Openstreetmap (OSM)](https://openstreetmap.org) - Massive source of public and publically-edited spatial data worldwide including roads, paths, neighborhoods, business, parks, boundaries, structures, and more (https://openstreetmap.org).
 https://opendatainception.io/
 
 ## Imagery
