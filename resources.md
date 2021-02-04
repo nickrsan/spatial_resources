@@ -17,6 +17,7 @@ It is licensed under a <a rel="license" href="http://creativecommons.org/license
 10. [Imagery](#imagery)
 11. [Cool Organizations](#cool-organizations)
 12. [Trainings and Courses](#trainings-and-courses)
+13. [Utilities and Software for Spatial Professionals](#utilities)
 
 
 ## General
@@ -90,3 +91,21 @@ https://opendatainception.io/
 * saved Diigo links
 * Penn Open Courses
 * GIS Lounge listing
+
+## Utilities
+This section houses links to tools that aren't particularly limited to spatial work, but that people who regularly use computers and spatial data will find useful, including backups, synchronization tools, screenshot utilities, etc
+
+### Mutki-platform
+* Backblaze
+* iDrive (alternative backup for people with multiple computers)
+* Beyond Compare (paid)
+
+### Windows
+* Greenshot (Windows screenshot utility)
+* 7zip - simple, free windows archive utility that handles all major formats with no fuss
+* Notepad++ - useful windows text editor
+* Foxit PDF reader
+
+### Mac
+
+### Linux
