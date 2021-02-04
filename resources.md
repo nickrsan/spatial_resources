@@ -104,9 +104,11 @@ https://opendatainception.io/
 ## Utilities
 This section houses links to tools that aren't particularly limited to spatial work, but that people who regularly use computers and spatial data will find useful, including backups, synchronization tools, screenshot utilities, etc. Some will be free and others paid. None are required, but they may prove useful for spatial work.
 
+It starts off with **backup software**. If you work with data, you should have a good offsite backup (not just to an external drive, though that's better than nothing). If you can afford the options listed here, I've used them both and they're highly recommended. Importantly, they're versioned, which means you can roll folders back in time (similar to Apple's Time Machine) and can help you resolve data corruption issues. Please, please, make sure you have a backup if you're reading this!
+
 ### Multi-platform
-* [Backblaze](https://www.backblaze.com/) - simple and reasonably priced backup software for Windows and Mac. Your backup is versioned so it helps protect you from data corruption and ransomware. Great if you only have one device to back up and includes unlimited storage (https://www.backblaze.com/ - paid).
-* [iDrive](https://www.idrive.com/) - another backup option supporting PCs/Macs/mobile devices. You pay for an amount of storage space and can back up many devices into it, making it a nice alternative backup for people with multiple computers. Backup is also versioned (https://www.idrive.com/ - paid)
+* [Backblaze](https://www.backblaze.com/) Backup - simple and reasonably priced backup software for Windows and Mac. Your backup is versioned so it helps protect you from data corruption and ransomware. Great if you only have one device to back up and includes unlimited storage (https://www.backblaze.com/ - paid).
+* [iDrive](https://www.idrive.com/) Backup - another backup option supporting PCs/Macs/mobile devices. You pay for an amount of storage space and can back up many devices into it, making it a nice alternative backup for people with multiple computers. Backup is also versioned (https://www.idrive.com/ - paid)
 * [Beyond Compare](https://scootersoftware.com/) - a file and directory comparison tool for Windows, Mac, and Linux. Great for when you have multiple versions of a project laying around and you're wondering "what's different?" between them. (https://scootersoftware.com/ - one time payment, free trial available)
 
 ### Windows
