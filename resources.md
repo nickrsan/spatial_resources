@@ -35,6 +35,15 @@ It is licensed under a <a rel="license" href="http://creativecommons.org/license
 ### FOSS GIS
 
 ### Web GIS
+There are numerous web GIS platforms depending on your needs. They are typically either freemium (small free tier, with payment for more features), paid, or require you to host your own data.
+
+* ArcGIS Online
+* MapBox
+* Carto
+
+* Leaflet
+* OpenLayers
+* QGIS Leaflet plugin
 
 ### Other GIS Packages
 * Google Earth Engine (not the same as Google Earth). A platform for rapid, distributed storage, processing, and classification of imagery data.
