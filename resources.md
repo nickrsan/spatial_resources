@@ -93,12 +93,12 @@ https://opendatainception.io/
 * GIS Lounge listing
 
 ## Utilities
-This section houses links to tools that aren't particularly limited to spatial work, but that people who regularly use computers and spatial data will find useful, including backups, synchronization tools, screenshot utilities, etc
+This section houses links to tools that aren't particularly limited to spatial work, but that people who regularly use computers and spatial data will find useful, including backups, synchronization tools, screenshot utilities, etc. Some will be free and others paid. None are required, but they may prove useful for spatial work.
 
-### Mutki-platform
-* Backblaze
-* iDrive (alternative backup for people with multiple computers)
-* Beyond Compare (paid)
+### Multi-platform
+* [Backblaze](https://www.backblaze.com/) - simple and reasonably priced backup software for Windows and Mac. Your backup is versioned so it helps protect you from data corruption and ransomware. Great if you only have one device to back up and includes unlimited storage (https://www.backblaze.com/ - paid).
+* [iDrive](https://www.idrive.com/) - another backup option supporting PCs/Macs/mobile devices. You pay for an amount of storage space and can back up many devices into it, making it a nice alternative backup for people with multiple computers. Backup is also versioned (https://www.idrive.com/ - paid)
+* [Beyond Compare](https://scootersoftware.com/) - a file and directory comparison tool for Windows, Mac, and Linux. Great for when you have multiple versions of a project laying around and you're wondering "what's different?" between them. (https://scootersoftware.com/ - one time payment, free trial available)
 
 ### Windows
 * Greenshot (Windows screenshot utility)
