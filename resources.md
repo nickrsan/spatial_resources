@@ -11,13 +11,14 @@ It is licensed under a <a rel="license" href="http://creativecommons.org/license
 4. [QGIS Plugins](#qgis-plugins)
 5. [Programming](#programming)
 6. [Books and Papers](#books-and-papers)
-7. [Cartography and Design](#cartography-and-design)
-8. [Communities, News, and Blogs](#communities-news-and-blogs)
-9. [Data Sources and Portals](#data-sources-and-portals)
-10. [Imagery](#imagery)
-11. [Cool Organizations](#cool-organizations)
-12. [Trainings and Courses](#trainings-and-courses)
-13. [Utilities and Software for Spatial Professionals](#utilities)
+7. [Projections](#projections)
+8. [Cartography and Design](#cartography-and-design)
+9. [Communities, News, and Blogs](#communities-news-and-blogs)
+10. [Data Sources and Portals](#data-sources-and-portals)
+11. [Imagery](#imagery)
+12. [Cool Organizations](#cool-organizations)
+13. [Trainings and Courses](#trainings-and-courses)
+14. [Utilities and Software for Spatial Professionals](#utilities)
 
 
 ## General
@@ -68,6 +69,15 @@ There are numerous web GIS platforms depending on your needs. They are typically
 ### Tutorials
 
 ### Papers and Research
+
+## Projections
+### Utilities
+* [Projfinder](http://projfinder.com/) - Projfinder helps you figure out which coordinate system your data are in when it is unknown. You type in a set of coordinates and then move the map to the location those coordinates represent and it gives you a list of the most likely coordinate systems for it. (http://projfinder.com/)
+
+### Understanding Projections
+* [The True Size](https://thetruesize.com/) - Visualize the distortion of projections by moving countries around the map (https://thetruesize.com/)
+* [Map Projection Transitions](https://www.jasondavies.com/maps/transition/) - Watch the map change between different projections to see how each one distorts the Earth (https://www.jasondavies.com/maps/transition/)
+* [Spheres, Cones, and Cylinders] (https://mathigon.org/course/circles/spheres-cones-cylinders#sphere-maps) - Move a square around the map and then see the shape  that the square would be on a spherical globe (https://mathigon.org/course/circles/spheres-cones-cylinders#sphere-maps)
 
 ## Cartography and Design
 
