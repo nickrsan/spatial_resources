@@ -38,22 +38,22 @@ It is licensed under a <a rel="license" href="http://creativecommons.org/license
 ### Web GIS
 There are numerous web GIS platforms depending on your needs. They are typically either freemium (small free tier, with payment for more features), paid, or require you to host your own data.
 
-* ArcGIS Online
-* MapBox
-* Carto
-
-* Leaflet
-* OpenLayers
-* QGIS Leaflet plugin
+* [ArcGIS Online](https://arcgis.com)
+* [MapBox](https://mapbox.com)
+* [Carto](https://carto.com)
+* 
+* [Leaflet](https://leafletjs.com) - a simple and fast free/open source library for building web maps (https://leafletjs.com)
+* [OpenLayers](https://openlayers.org/) - a free and open source library for building web maps
+* [QGIS Leaflet plugin](https://plugins.qgis.org/plugins/qgis2web/) - A QGIS plugin for exporting your project as a web map that can be hosted on a standard web server (https://plugins.qgis.org/plugins/qgis2web/)
 
 ### Other GIS Packages
-* Google Earth Engine (not the same as Google Earth). A platform for rapid, distributed storage, processing, and classification of imagery data.
-* PostGIS
-* OGR/GDAL
-* GRASS
-* gvSig
-* Manifold
-* MapWindow
+* [Google Earth Engine](https://earthengine.google.com) (not the same as Google Earth). A platform for rapid, distributed storage, processing, and classification of imagery data. (https://earthengine.google.com)
+* [PostGIS](https://postgis.net/) - Spatial extensions for the top free and open source database (https://postgis.net/)
+* [OGR/GDAL](https://www.osgeo.org/projects/gdal/) - GDAL is the Geospatial Data Abstraction Layer - its functionality underlies many other GIS packages, but it can be accessed directly from the command line (https://www.osgeo.org/projects/gdal/)
+* [GRASS](https://grass.osgeo.org/) - GRASS is a longstanding and foundation GIS package that provides a set of data manipulation and analysis functions and simple GUI
+* [gvSig]
+* [Manifold]
+* [MapWindow]
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) (https://github.com/jblindsay/whitebox-tools)
 
 ## ArcGIS Addons
