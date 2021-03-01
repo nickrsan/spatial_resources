@@ -78,6 +78,7 @@ There are numerous web GIS platforms depending on your needs. They are typically
 * [The True Size](https://thetruesize.com/) - Visualize the distortion of projections by moving countries around the map (https://thetruesize.com/)
 * [Map Projection Transitions](https://www.jasondavies.com/maps/transition/) - Watch the map change between different projections to see how each one distorts the Earth (https://www.jasondavies.com/maps/transition/)
 * [Spheres, Cones, and Cylinders] (https://mathigon.org/course/circles/spheres-cones-cylinders#sphere-maps) - Move a square around the map and then see the shape  that the square would be on a spherical globe (https://mathigon.org/course/circles/spheres-cones-cylinders#sphere-maps)
+* [Understanding Map Projections and the Properties they Preserve - Axis Maps](https://www.axismaps.com/guide/map-projections) - a great guide to how map projections behave and distort different properties (https://www.axismaps.com/guide/map-projections)
 
 ## Cartography and Design
 
