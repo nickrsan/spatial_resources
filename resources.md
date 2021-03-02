@@ -26,6 +26,13 @@ It is licensed under a <a rel="license" href="http://creativecommons.org/license
 *	[GeoNet](https://geonet.esri.com/welcome) – Esri’s GIS Q&A, news, and discussion community (https://geonet.esri.com/welcome)
 * [Projfinder](http://projfinder.com/) - for when you have data in an unknown projection. Put a coordinate you have into the boxes, move the map to the approximate location of that coordinate, then click the button to see a list of the most likely projections (http://projfinder.com/).
 
+### Troubleshooting and getting help
+* [Troubleshooting Unknown Errors and Error 999999 in ArcGIS](https://help.watershed.ucdavis.edu/troubleshooting-error-999999-arcmap-and-arcgis) - a set of things to try when ArcGIS isn't behaving (https://help.watershed.ucdavis.edu/troubleshooting-error-999999-arcmap-and-arcgis)
+* [How to ask good questions](https://jvns.ca/blog/good-questions/) - An article by Julia Evans on improving communication when asking for help in order to better get answers.
+* [Getting Answers](https://www.mikeash.com/getting_answers.html) - An article by Mike Ash on writing problem reports that others will want to help you with (https://www.mikeash.com/getting_answers.html)
+* [The Strong Problem Report Checklist](http://nicksantos.com/wp-content/uploads/2021/02/StrongProblemReports.pdf) - A checklist I made listing core elements of a problem report in a quick and digestible form, to support getting answers when asking for help from colleagues or online (http://nicksantos.com/wp-content/uploads/2021/02/StrongProblemReports.pdf)
+
+
 ## Tools and their help sites
 ### ArcGIS
 * [ArcGIS Pro Help](https://pro.arcgis.com/en/pro-app/latest/help/main/welcome-to-the-arcgis-pro-app-help.htm) (https://pro.arcgis.com/en/pro-app/latest/help/main/welcome-to-the-arcgis-pro-app-help.htm)
