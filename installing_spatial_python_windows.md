@@ -1,5 +1,5 @@
 # Spatial Python Environments on Windows, with Geopandas, Without Conda
-Like me, you might be reading this because you've fussed with conda environments, trying to get them to play nice with the complex spatial dependency tree. Recently I found that [Christoph Gohlke](https://www.cgohlke.com/) (bless them) is still publishing binary built wheels of common Python libraries, but especially of the spatial software stack.
+Like me, you might be reading this because you've fussed with conda environments, trying to get them to play nice with the complex spatial dependency tree. Recently I found that [Christoph Gohlke](https://www.cgohlke.com/) (bless them) is still publishing binary built wheels of common Python libraries, but especially of the spatial software stack 🤌.
 
 Their wheel builds of spatial dependencies are in the repository at https://github.com/cgohlke/geospatial-wheels/ with new builds for updates and different Python versions published as releases at https://github.com/cgohlke/geospatial-wheels/releases.
 
