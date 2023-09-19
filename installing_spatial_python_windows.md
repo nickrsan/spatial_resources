@@ -1,9 +1,9 @@
-# Spatial Python Environments on Windows, with Geopandas, Without Conda
-You might be reading this because, like me, you've fussed with conda environments, trying to get them to play nice with the complex spatial dependency tree. Recently I found that [Christoph Gohlke](https://www.cgohlke.com/) (bless them) is still publishing binary built wheels of common Python libraries, but especially of the spatial software stack 🤌.
+# FOSS Spatial Python Environments on Windows, with Geopandas, Without Conda
+You might be reading this because, like me, you've fussed with conda environments, trying to get them to play nice with the complex spatial dependency tree. Recently I found that [Christoph Gohlke](https://www.cgohlke.com/) (bless them) is still publishing binary built wheels of common Python libraries - especially of the spatial software stack 🤌.
 
 Their wheel builds of spatial dependencies are in the repository at https://github.com/cgohlke/geospatial-wheels/ with new builds for updates and different Python versions published as releases at https://github.com/cgohlke/geospatial-wheels/releases.
 
-The general recipe to work with this is to build a requirements file - we'll call it `spatial-requirements-310.txt` in this example - that references the files in those releases directly, in the following order:
+The general recipe to work with this is to build a requirements file - we'll call it `spatial-requirements-310.txt` in this example since it'll install FOSS spatial libraries for Python 3.10 - that references the files in those releases directly, in the following order:
 
 ```
 Rtree
@@ -17,7 +17,7 @@ shapely
 fiona
 ```
 
-The requirements file supports referencing a specific wheel at a location on the web, so you can right click on the wheel for your version of Python, your system architecture, and the release/build you want and copy the link, then paste it
+The requirements file supports referencing a specific wheel at a location on the web, so, while viewing the releases for your version of Python, your system architecture, and the release/build you have, you can right click on a wheel and copy the link, then paste it
 into your requirements file in the format `package_name @ url`. So, for example, the most recent release of Rtree would look like the following in my requirements file:
 `Rtree @ https://github.com/cgohlke/geospatial-wheels/releases/download/v2023.7.16/Rtree-1.0.1-cp310-cp310-win_amd64.whl`
 
