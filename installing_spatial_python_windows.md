@@ -40,3 +40,5 @@ after installing these wheels (and their dependencies). Optionally, if you need 
 
 Then I can just run `python -m pip install -r spatial-requirements-310.txt` in my Python environment (whether virtualenv, pipenv, etc) in order to obtain the full stack of dependencies.
 
+Note: At some point, I'd love to make a small service that automatically builds the requirements files, but at least for now, here are the instructions to DIY.
+
