@@ -48,7 +48,7 @@ I'm putting some questions down here in order to keep the information above shor
 
 
 ### What's wrong with using conda?
-Nothing - if it works for you. I've personally had numerous problems getting environments to install geopandas, to the point where I stopped using it on Windows, even though it's a great library. I've also seen others with these same issues, so I was happy to see that Christoph Gohlke's wheels provide an alternative route that, in my experience, is faster to work with and more reliable across different Windows computers
+Nothing - if it works for you. I've personally had numerous problems getting environments to install geopandas, to the point where I stopped using it on Windows, even though it's a great library. I've also seen others with these same issues, so I was happy to see that Christoph Gohlke's wheels provide an alternative route that, in my experience, is faster to work with and more reliable across different Windows computers. Some people have no problems using conda for this purpose though, and it remains a great route when it works.
 
 ### What's a wheel?
 A wheel contains a packaged Python library, ready to install on your computer. Importantly, they could contain only source code and be agnostic to the computer/operating system you're running on, or they can optionally contain binary builds and dependencies that allow them to be fully self-contained when a library needs to run non-Python (e.g. C/C++) code that requires compilation for your machine. That's what the wheels here have, and installing these libraries with pip or an alternative means typically requires you have a compiler set up and/or you install external files that support the Python code.
