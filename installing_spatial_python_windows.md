@@ -38,11 +38,10 @@ geopandas
 where it installs everything directly from cgohlke's GitHub releases, then retrieves geopandas directly from PyPI. Importantly, we've already resolved most of the geopandas dependencies here, so installation should be very simple
 after installing these wheels (and their dependencies). Optionally, if you need to control versions of matplotlib, numpy, scipy, Pandas, etc, insert those before these installations in the file to try to force dependency resolution to use them.
 
-Then I can just run `python -m pip install -r spatial-requirements-310.txt` in my Python environment (whether virtualenv, pipenv, etc) in order to obtain the full stack of dependencies.
+Then I can just run `python -m pip install -r spatial-requirements-310.txt` in my Python environment (whether virtualenv, pipenv, etc) in order to obtain the full stack of dependencies. In most cases, I'd recommend doing this in a new Python environment, not one that has many existing libraries that could produce version conflicts or package upgrades - I haven't tested how reliable this approach is with existing environments, but it has worked well with me on multiple computers and environments when creating a new Python environment first.
 
 I've placed the full requirements [file for download](python/requirements/3.10/spatial-requirements-310.txt) in this repository and if I make files for other versions I'll add them as well. I'll update that file in place whenever new wheels are released.
 
-Note: At some point, I'd love to make a small service that automatically builds the requirements files, but at least for now, here are the instructions to DIY.
 
 ## FAQ
 I'm putting some questions down here in order to keep the information above short and easy to reference
